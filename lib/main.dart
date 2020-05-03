@@ -17,8 +17,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.indigo,
         ),
         debugShowCheckedModeBanner: false,
-        home: LandingPage(
-        ),
+        home: LandingPage(),
       ),
     );
   }
